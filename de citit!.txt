@@ -1,0 +1,16 @@
+In cadrul workfile-lului "app1_app2_app3" se regasesc
+primele 3 aplicatii structurate in modul urmator:
+
+Variabilele sunt: 
+x1->numar locuitori , x2-> ne medici ,
+y-> cifra de afaceri
+mall-> variabila dummy(faramacii situate/nesituate in mall)
+
+-> ecuatiile, tabelele, graficele aferente primei aplicatii
+au denumirea de forma graph01____,table01____m, eq01 , yf_1
+-> ecuatiile, tabelele, graficele aferente aplicatiei 2
+au denumirea de forma graph01____,table02____m, eq02, yf_2
+-> ecuatiile, tabelele, graficele aferente aplicatiei 3
+au denumirea de forma graph03____,table03____m, eq03, yf_3
+
+In cadrul workfile-ului "app4" se regasesc seriile de date aferente aplicatiei 4.
